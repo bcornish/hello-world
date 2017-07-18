@@ -1,0 +1,7 @@
+I am trying to add this new feature.
+This is a text file from my first local branch that I made.
+I made this branch called testingfeature by calling 'git branch testingfeature'
+Then I switched to the branch by calling 'git checkout testingfeature'.
+Then I called 'touch ~\hello-world\testfile' to make this txt file.
+Then I called 'vi testfile' to edit it.
+And here we are.
